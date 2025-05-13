@@ -1,5 +1,5 @@
 {
-    "name": "ESP32 Logger",
+    "name": "ESP32 Log",
     "version": "1.0.0",
     "description": "A lightweight logging library for ESP32 projects.",
     "keywords": ["esp32", "logging", "debugging", "iot", "esp32s3","n16r8"],
