@@ -1,0 +1,24 @@
+{
+    "name": "ESP32 Logger",
+    "version": "1.0.0",
+    "description": "A lightweight logging library for ESP32 projects.",
+    "keywords": ["esp32", "logging", "debugging", "iot", "esp32s3","n16r8"],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/crack-byte/esp32-log.git"
+    },
+    "authors": [
+      {
+        "name": "Abhishek Purohit",
+        "email": "the.abhishek.purohit@gmail.com",
+        "url": "https://github.com/crack-byte",
+        "maintainer": true
+      }
+    ],
+    "license": "MIT",
+    "homepage": "https://github.com/crack-byte/esp32-log",
+    "dependencies": {
+    },
+    "frameworks": ["arduino", "espidf"],
+    "platforms": ["espressif32"]
+}
