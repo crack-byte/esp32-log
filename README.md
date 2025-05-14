@@ -1,4 +1,5 @@
-# ESP32 Logger
+# ESP32 Log
+<a href="https://registry.platformio.org/libraries/crack-byte/ESP32 Log"><img src="https://badges.registry.platformio.org/packages/crack-byte/library/ESP32 Log.svg" alt="PlatformIO Registry" /></a>
 
 A lightweight logging library for ESP32 projects. This library provides an easy-to-use interface for logging messages with different log levels, making debugging and monitoring ESP32 applications more efficient.
 
